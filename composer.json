@@ -1,0 +1,9 @@
+{
+  "require": {
+    "phalcon/devtools": "3.2.2",
+    "phalcon/incubator": "3.2.2"
+  },
+  "require-dev": {
+    "phalcon/ide-stubs": "*"
+  }
+}
